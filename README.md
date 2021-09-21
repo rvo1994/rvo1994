@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
-<h3 align="center">A passionate data scientist from Belgium</h3>
+<h3 align="center">As a curious, creative and communicative problem-solver, I found in data science a field that allows me to combine what drives me with what I excel at. In addition, I leverage my strong analytical skills and business background to create added value through the intelligent use of data.</h3>
 
 - 📫 How to reach me **raphael.voortman@gmail.com**
 
