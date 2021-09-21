@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
-<h3 align="center">A a curious, creative and communicative data scientist from Brussels</h3>
+<h3 align="center">A curious, creative and communicative data scientist from Brussels</h3>
 
 - 🔭 I’m currently working on [ai-motion](https://github.com/caronarthur/ai-motion)
 
