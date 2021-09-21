@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
-<p align="center">As a curious, creative and communicative problem-solver, I found in data science a field that allows me to combine what drives me with what I excel at. In addition, I leverage my strong analytical skills and business background to create added value through the intelligent use of data.</p>
+<h3 align="center">A a curious, creative and communicative data scientist from Brussels</h3>
+
+- 🔭 I’m currently working on [ai-motion](https://github.com/caronarthur/ai-motion)
+
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **raphael.voortman@gmail.com**
+
+- ⚡ Fun fact **I built a sudoku solver app for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
