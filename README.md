@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ai-motion](https://github.com/caronarthur/ai-motion)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask**, **Microsoft Azure**
 
 - 📫 How to reach me **raphael.voortman@gmail.com**
 
